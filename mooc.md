@@ -1,9 +1,33 @@
-#MOOC certifications
+## Massive Online Open Course (MOOC):
 
-| Course Title  | University / Institution |  Duration | Category | Platform  | Certificate |
-|---------------|--------------------------|-----------|----------|-----------|-------------|
-|DAT201x: Querying with Transact-SQL | Microsoft |  4 weeks  | Data Analysis  | [edX] (https://www.edx.org/course/querying-transact-sql-microsoft-dat201x-0)| [Honor Code] (https://s3.amazonaws.com/verify.edx.org/downloads//Certificate.pdf)|
-|DAT207x: Analyzing and Visualizing Data with Power BI | Microsoft |  4 weeks  | Self Service BI| [edX] (https://www.edx.org/course/analyzing-visualizing-data-power-bi-microsoft-dat207x-0) | [Honor Code] (https://courses.edx.org/certificates/6943c762768e4a509b9f0e62fa38459b)|
-|Introduction to Software Product Management  | University of Alberta |  2 weeks  | Software Developement| [Coursera] (https://www.coursera.org/learn/introduction-to-software-product-management) | [Verified] (https://www.coursera.org/account/accomplishments/certificate/4FKR6J6AKSKN) |
-|Software Processes and Agile Practices | University of Alberta |  4 weeks  | Software Developement| [Coursera] (https://www.coursera.org/learn/software-processes-and-agile-practices)| [Verified] (https://www.coursera.org/account/accomplishments/certificate/D67J7Q4ZTE8U) |
-
+1. Querying with Transact-SQL (DAT201x) by Microsoft through edX. [(Honor Code Certificate)](https://s3.amazonaws.com/verify.edx.org/downloads/da1686cc154c424cb7a0d3ec15c38549/Certificate.pdf)
+1. Introduction to R Programming (DAT204x) by Microsoft through edX. [(Honor Code Certificate)](https://s3.amazonaws.com/verify.edx.org/downloads/2847e7162898487ead66d29ec05a4520/Certificate.pdf)
+1. Analyzing and Visualizing Data with Power BI (DAT207x) by Microsoft through edX. [(Honor Code Certificate)](https://courses.edx.org/certificates/6943c762768e4a509b9f0e62fa38459b)
+1. A Crash Course in Data Science by Johns Hopkins University through Coursera. [(Verified Certificate)](https://www.coursera.org/account/accomplishments/certificate/XLYTGCX6APG2)
+1. Building a Data Science Team by Johns Hopkins University through Coursera. [(Verified Certificate)](https://www.coursera.org/account/accomplishments/certificate/H8AV8YS9HB33)
+1. The Data Scientist’s Toolbox by Johns Hopkins University through Coursera. [(Verified Certificate)](https://www.coursera.org/account/accomplishments/certificate/QYFJAKMY8V)
+1. R Programming by Johns Hopkins University through Coursera. [(Verified Certificate)](https://www.coursera.org/account/accomplishments/certificate/9FREZX2B99)
+1. Explore Statistics with R (KIexploRx) by Karolinska Institutet through edX. [(Honor Code Certificate)](https://s3.amazonaws.com/verify.edx.org/downloads/26094bca5a4b421596cce572f22e90cc/Certificate.pdf)
+1. Data Analysis: Take it to the MAX() (EX101x) by Delft University of Technology through edX. [(Honor Code Certificate)](https://courses.edx.org/certificates/3e10d54fda584722a7d8e639dd3b69a4)
+1. Programming for Everybody (Getting Started with Python) by University of Michigan through Coursera. [(Verified Certificate)](https://www.coursera.org/account/accomplishments/certificate/J9GBPMFB7HFH)
+1. An Introduction to Interactive Programming in Python (Part 1) by Rice University through Coursera. [(Verified Certificate)](https://www.coursera.org/account/accomplishments/certificate/LFS53HU8KT)
+1. Introduction to Computer Science and Programming Using Python (6.00.1x) by Massachusetts Institute of Technology through edX. [(Honor Code Certificate)](https://courses.edx.org/certificates/20f7004e25284fb69d2bd39f75c2b10a)
+1. Learn to Program: The Fundamentals by University of Toronto through Coursera. 
+1. Introduction to Programming with MATLAB by Vanderbilt University through Coursera. [(Verified Certificate)](https://www.coursera.org/account/accomplishments/certificate/F7YXGHE9V4)
+1. Information Systems and Computer Applications, Part 1: IT (ISC101.1x) by Universitat Politècnica de València through edX. [(Honor Code Certificate)](https://courses.edx.org/certificates/bb5ef74d5ded4733a3bb2b2de9168cc9) 
+1. Information Systems and Computer Applications, Part 2: Hardware (ISC101.2x) by Universitat Politècnica de València through edX. [(Honor Code Certificate)](https://courses.edx.org/certificates/33c10a73e845405a81ea451406c878fc) 
+1. Information Systems and Computer Applications, Part 3: Software Development (ISC101.3x) by Universitat Politècnica de València through edX. [(Honor Code Certificate)](https://courses.edx.org/certificates/7aad434595e746f0ac2716af337f644c) 
+1. Information Systems and Computer Applications, Part 4: Programming (ISC101.4x) by Universitat Politècnica de València through edX. 
+1. Introduction to Software Product Management by University of Alberta through Coursera. [(Verified Certificate)](https://www.coursera.org/account/accomplishments/certificate/4FKR6J6AKSKN)
+1. Software Processes and Agile Practices by University of Alberta through Coursera. [(Verified Certificate)](https://www.coursera.org/account/accomplishments/certificate/D67J7Q4ZTE8U)
+1. Leadership Through Social Influence by Northwestern University through Coursera. [(Verified Certificate)](https://www.coursera.org/account/accomplishments/certificate/4D4WKSZTL83E)
+1. Inclusive Leadership Training: Maximizing Work-Life for Your Success (IL3x) by Catalyst through edX. [(Honor Code Certificate)](https://courses.edx.org/certificates/ba7cdf49d47742abaf6237b73c283805)
+1. Inclusive Leadership Training: Get Beyond Work-Life Balance (IL4x) by Catalyst through edX. [(Honor Code Certificate)](https://courses.edx.org/certificates/33c9b38759d641169b75dda44e718d31)
+1. Big Data, Cloud Computing, & CDN Emerging Technologies by Yonsei University through Coursera. [(Verified Certificate)](https://www.coursera.org/account/accomplishments/certificate/85YKURKX7MHH)
+1. Indexes and Transactions by Stanford University through Stanford Online. [(Statement of Accomplishment)](https://verify.lagunita.stanford.edu/SOA/675e80724bf94f3dbdd23fa7b55953a3)
+1. On-Line Analytical Processing by Stanford University through Stanford Online. [(Statement of Accomplishment)](https://verify.lagunita.stanford.edu/SOA/372e9ebfc6444f0dbb38ff623de6ef51)
+1. High-Impact Business Writing by University of California, Irvine through Coursera. [(Verified Certificate)](https://www.coursera.org/account/accomplishments/certificate/M3H8Z3XEARRR)
+1. eHealth - Opportunities and Challenges (KIeHealthX) by Karolinska Institutet through edX. [(Honor Code Certificate)](https://courses.edx.org/certificates/9f42443c753b4e9f8bb8c4cbb1ad502f)
+1. Personal Branding by University of Virginia through Coursera. [(Verified Certificate)](https://www.coursera.org/account/accomplishments/certificate/YUW4M6R4782K)
+1. Digital Branding and Engagement (MKT1x) by Curtin University through edX. [(Honor Code Certificate)](https://courses.edx.org/certificates/1b9ce5b5bb6c4f2093ae8e31828ee060)
+1. International Business - I by The University of New Mexico. [(Verified Certificate)](https://www.coursera.org/account/accomplishments/certificate/HPGZ5965MMQF)
